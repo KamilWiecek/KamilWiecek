@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on building a Azure ☁️ Cloud Adoption Framework/ Platform Operations/ Goverancne Practice in SoftServe. 
-- 🌱 I’m currently learning digital writing 🖋️ [https://typeshare.co/kamilwiecek](https://typeshare.co/kamilwiecek)...
+- 🌱 I’m currently learning digital writing 🖋️ [https://typeshare.co/kamilwiecek](https://typeshare.co/kamilwiecek)
 
 <!--
 **kwiecek/kwiecek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
