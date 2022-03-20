@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on building a Azure ☁️ Cloud Adoption Framework/ Platform Operations/ Goverancne Practice in SoftServe
 - 🌱 I’m currently learning digital writing 🖋️ [https://typeshare.co/kamilwiecek](https://typeshare.co/kamilwiecek)
-- ☁️ My Azure CAF, Powershell & automation experience is partially dumped on my [personal](https://www.kamilwiecek.com) and [automate.guru](https://automate.guru) blogs
+- ☁️ My Azure CAF, Powershell & automation experience is partially dumped on [kamilwiecek.com](https://www.kamilwiecek.com) and [automate.guru](https://automate.guru) blogs
 
 <!--
 **kwiecek/kwiecek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
