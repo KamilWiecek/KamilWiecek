@@ -1,10 +1,15 @@
-### Hi there 👋
-- 🔭 I’m currently working on building a Azure ☁️ Cloud Adoption Framework/ Platform Operations/ Goverancne Practice in SoftServe
-- 🌱 I’m currently learning digital writing 🖋️ [https://typeshare.co/kamilwiecek](https://typeshare.co/kamilwiecek)
-- ☁️ My Azure CAF, Powershell & automation experience is partially dumped on [kamilwiecek.com](https://www.kamilwiecek.com) and [automate.guru](https://automate.guru) blogs
+## About me
 
-Recently created content:
-- [🖐️ 5 Arguments Against Fear 🛑 Of Losing Credibility Saying 🤔 I DON'T KNOW 📚 For Knowledge Workers](https://www.wiecek.io/i-dont-know/)
+Motivated and enthusiastic 12 years' experienced professional who enjoys working hands-on to solve business challenges with technology in various roles: engineer, consultant, architect and technical product owner.
+
+Always looking for opportunities to design and build advanced systems, relieving dev & data teams from the need to manage infrastructure by creating abstractions, self-services & automations to improve time to market.
+
+## Skills
+
+- Lead projects end-to-end: from introducing new clients to the company and its competencies, through delivering solution architecture and effort estimations, to managing execution and ensuring successful delivery
+- Design, plan, and implement systems that automate complex processes 
+- Ability to work independently, under time pressure, and with demanding stakeholders
+- Knowledge of best practices in cloud services configuration, automation, scripting, CI/CD design, and IaC
 
 <!--
 **kwiecek/kwiecek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
