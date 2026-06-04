@@ -13,6 +13,7 @@ Always looking for opportunities to design and build advanced systems, relieving
 
 ## Predictions 🎯 / Opinions 📣 / Thoughts 💭
 
+- IT specialist since 2025 is an experienced and knwoedgable abstraction layer between people and LLM-powered coding assistants.
 - Private clouds will be growing due to geopolitics and cost savings. As a DevOps/Platform Engineer, focus on on-prem skills: Kubernetes and containerization ecosystem, Linux, and programming/ scripting. 
 
 
